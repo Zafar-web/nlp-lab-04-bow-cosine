@@ -3,10 +3,7 @@ NLP Lab 04 — Bag of Words & Cosine Similarity
 Course Information
 
 Course Title: Natural Language Processing
-Course Code: CS-602 / DS-604
-Lab Exercise: 04
 Topic: Vector Space Modeling — Bag of Words (BoW) & Cosine Similarity
-Academic Session: 2026
 Department: Artificial Intelligence — University of Sindh
 
 Student Information
@@ -78,12 +75,8 @@ Review 1	1	0	0	1	0	1	1	0	0
 Review 2	0	0	0	1	1	1	0	1	0
 Review 3	0	1	1	0	0	1	0	1	1
 
-Task 1 Screenshot
-
-Add the screenshot of your Task 1 terminal/Jupyter output below:
-
-Rename your Task 1 screenshot to task1_output.png and upload it to the repository.
-
+## TASK 1 ScreenShot
+![Task 1 output](task1_output.png)
 ⸻
 
 4. Task 2 — Document Search Engine & Relevance Ranking
@@ -117,12 +110,9 @@ The first document receives the highest score because it contains several terms 
 
 Document 3 receives a score of 0.0000 because it has no overlapping vocabulary terms with the query.
 
-Task 2 Screenshot
+## Task 2 Screenshot
 
-Add the screenshot of your Task 2 terminal/Jupyter output below:
-
-Rename your Task 2 screenshot to task2_output.png and upload it to the repository.
-
+![Task 2 Output](task2_output.png)
 ⸻
 
 5. Viva & Reflection Questions
